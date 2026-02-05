@@ -1,3 +1,4 @@
 Collaboration Demo Project
 Version 1.0
 This project demonstrates basic GitHub collaboration workflows.
+It is intended for educational and practice purposes.
